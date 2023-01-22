@@ -1,1 +1,6 @@
-h2 {color: rgb(132, 132, 228);}
+h2 {color: rgb(132, 132, 228);
+    background-color: aliceblue;
+    text-align: center;
+    padding: 15px 10px 15px 10px;
+    border:  solid 1px #000;
+    margin: auto;}
